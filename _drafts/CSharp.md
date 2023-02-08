@@ -1,3 +1,7 @@
+---
+title: C Sharp
+layout: post
+---
 # C Sharp
 
 ## C#基础知识
